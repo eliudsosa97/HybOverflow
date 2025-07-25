@@ -200,6 +200,5 @@ Este proyecto fue desarrollado como parte del curso de Programación Avanzada, i
 
 ## Licencia
 
-Proyecto académico - Universidad [Nombre de la Universidad]  
-Curso: Programación Avanzada  
-Semestre: [Semestre/Año]
+Proyecto académico - Hybridge Education  
+Curso: Programación Avanzada
